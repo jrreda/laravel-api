@@ -6,7 +6,6 @@ use App\Filters\V1\CustomerFilter;
 use App\Http\Controllers\Controller;
 use App\Models\Customer;
 use App\Http\Requests\V1\StoreCustomerRequest;
-use App\Http\Requests\UpdateCustomerRequest;
 use App\Http\Requests\V1\UpdateCustomerRequest as V1UpdateCustomerRequest;
 use App\Http\Resources\V1\CustomerCollection;
 use App\Http\Resources\V1\CustomerResource;
